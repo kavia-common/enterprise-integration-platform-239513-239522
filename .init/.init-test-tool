@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/enterprise-integration-platform-239513-239522/enterprise_backend_api"
+}
